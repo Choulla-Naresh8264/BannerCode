@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+       <Ad>
+            <ImageUrl>~/Images/side.jpg</ImageUrl>
+            <NavigateUrl>http://www.Mindcracker.com/Registration/Register.aspx</NavigateUrl>
+            <AlternateText>Advertisement1</AlternateText>
+            <Impressions>100</Impressions>
+            <Keyword>Header</Keyword>
+            <Category>Script</Category>
+      </Ad>
+
+  <Ad>
+    <ImageUrl>~/Images/im.png</ImageUrl>
+    <NavigateUrl>http://www.Mindcracker.com/Registration/Register.aspx</NavigateUrl>
+    <AlternateText>Advertisement2</AlternateText>
+    <Impressions>100</Impressions>
+    <Keyword>Header</Keyword>
+    <Category>Script</Category>
+  </Ad>
+
+
+  <Ad>
+    <ImageUrl>~/Images/side.jpg</ImageUrl>
+    <NavigateUrl>http://www.Mindcracker.com/Registration/Register.aspx</NavigateUrl>
+    <AlternateText>Advertisement3</AlternateText>
+    <Impressions>100</Impressions>
+    <Keyword>Header</Keyword>
+    <Category>Script</Category>
+  </Ad>
+  
+  
+  
+  
+  
+  
+  
+  
+
+</Advertisements>
